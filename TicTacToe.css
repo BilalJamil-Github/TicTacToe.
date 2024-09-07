@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgb(224, 148, 224), rgb(175, 175, 250));
+}
+
+#main_heading {
+    text-align: center;
+    font-size: 100px;
+    width: 80%;
+}
+
+#main_div {
+    margin-left: 530px;
+    margin-top: 20px;
+    border: 10px solid black;
+    width: 460px;
+}
+
+.sub_div {
+    display: inline-flex;
+}
+
+.boxes {
+    padding: 40px;
+    border: 2px solid black;
+    background-color: wheat;
+    width: 70px;
+    height: 70px;
+}
